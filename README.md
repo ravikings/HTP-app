@@ -3,7 +3,7 @@
 
 ## Installation Steps for Windows Machine.
 
-1. Download or clone HTP app to your workstation from the Git repository.
+1. Download or clone HTP app to your workstation from the Git repository. for steps [click](https://blog.hubspot.com/website/download-from-github)
 
 Before proceeding, make sure you have Python installed and that it's available from your command line. You can check this by simply running:
 ```bash
